@@ -304,12 +304,6 @@ Hospital-Operations-Optimization/
 │   ├── hospital_data_generator.py    # Python script to generate data
 │   └── README.md                     # Data documentation
 │
-├── Screenshots/                       # Dashboard screenshots
-│   ├── Page1_Executive_Overview.png
-│   ├── Page2_Bed_Utilization.png
-│   ├── Page3_ER_Wait_Times.png
-│   └── Page4_Surgery_Performance.png
-│
 ├── Documentation/
 │   └── Hospital_Operations_Complete_Documentation.docx
 │
@@ -401,20 +395,6 @@ python hospital_data_generator.py
 - [x] Reduced analysis time by 85%
 - [x] Provided 12 actionable recommendations
 - [x] Achieved 4.3/5 portfolio project rating
-
-### 📊 Dashboard Screenshots:
-
-![Executive Overview](Screenshots/Page1_Executive_Overview.png)
-*Page 1: Executive Overview with key KPIs and trends*
-
-![Bed Utilization](Screenshots/Page2_Bed_Utilization.png)
-*Page 2: Department-wise bed utilization analysis*
-
-![ER Wait Times](Screenshots/Page3_ER_Wait_Times.png)
-*Page 3: ER patient flow and wait time analysis*
-
-![Surgery Performance](Screenshots/Page4_Surgery_Performance.png)
-*Page 4: Surgery cancellation analysis and recommendations*
 
 ---
 
