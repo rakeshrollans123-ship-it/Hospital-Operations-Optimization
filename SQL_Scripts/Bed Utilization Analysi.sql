@@ -66,4 +66,5 @@ FROM (
     FROM Beds b
     LEFT JOIN Bed_Occupancy bo ON b.BedID = bo.BedID
     GROUP BY b.Department
+
 ) x;
